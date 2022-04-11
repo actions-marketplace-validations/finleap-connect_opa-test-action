@@ -1,4 +1,4 @@
-name: "OPA Test"
+name: "Test Open Policy Agent (OPA) Policies"
 description: "Run Open Policy Agent tests"
 author: "Petro Protsakh"
 branding:
